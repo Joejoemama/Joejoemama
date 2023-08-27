@@ -5,7 +5,7 @@
   "authors": [
     {
       "name": "stupid",
-      "id": 69420"
+      "id": "69420"
     }
   ],
   "theme_color_map": {
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://i.imgur.io/l3TEpPc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+    "url": "https://raw.githubusercontent.com/Joejoemama/Joejoemama/main/Stupid.webp",
     "alpha": 0.6
   }
 }
