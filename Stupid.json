@@ -58,7 +58,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#cfb5a1",
+      "#ff6c03",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
@@ -66,7 +66,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#cfb5a1",
+      "#747474",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -94,11 +94,11 @@
       "#542ca3"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#3d1fff",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#3d1fff",
+      "#ffdd03",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
