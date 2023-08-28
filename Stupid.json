@@ -106,7 +106,7 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "transparent",
+      "#FFFFFF",
       "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_THUMB": [
