@@ -11,55 +11,55 @@
   "theme_color_map": {
     "HEADER_PRIMARY": [
       "#f1f1f1",
-      "#060607"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
       "#fbfbfb",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
       "#fbfbfb",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "TEXT_MUTED": [
       "#fbfbfb",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
       "#fafafa",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
       "#723736",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
       "#723736",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
       "#723736",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
       "#fafafa",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
       "#698ba3",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#120212",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
       "#ff6c03",
-      "#ffffff
+      "#FFFFFF
     ],
     "BACKGROUND_ACCENT": [
       "#cfb5a1",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
       "#747474",
@@ -67,15 +67,15 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#fafafa",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#698ba3",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#698ba3",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(255, 255, 255, 0.02)",
