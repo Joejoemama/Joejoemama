@@ -14,35 +14,35 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#ff6c03",
+      "#693BA3",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
-      "#ffb303",
+      "#ffffff",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#ffdd03",
+      "#ffffff",
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#92ff03",
+      "ffffff",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#e93349",
+      "#fafafa",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#1e63b3",
+      "#723736",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#e93349",
+      "#723736",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#747474",
+      "#723736",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -70,27 +70,27 @@
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#2d592d",
+      "#fafafa",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#1ffff8",
+      "#698ba3",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#3d1fff",
+      "#698ba3",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#Fd1fff",
+      "#Fd1fffE38E88",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#3d1fff",
+      "#723736",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#3d1fff",
+      "#723736",
       "#542ca3"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
