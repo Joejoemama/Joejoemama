@@ -18,15 +18,15 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#fbfbfb",
+      "#ffffff",
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#fbfbfb",
+      "#ffffff",
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#fafafa",
+      "#ffffff",
       "#ffffff"
     ],
     "INTERACTIVE_HOVER": [
@@ -47,27 +47,27 @@
     ],
     "BACKGROUND_SECONDARY": [
       "#698ba3",
-      "#f2f3f5"
+      "#FFFFFF
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#120212",
-      "#ebedef"
+      "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
       "#120212",
-      "#e3e5e8"
+      "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
       "#120212",
-      "#747f8d"
+      "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#120212",
+      "#747474",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#120212",
-      "#f8f9f9"
+      "#fafafa",
+      "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#120212",
@@ -152,6 +152,6 @@
   "background": {
     "blur": 0.1,
     "url": "https://raw.githubusercontent.com/Joejoemama/Joejoemama/main/Stupid.jpeg",
-    "alpha": 0.4
+    "alpha": 0.1
   }
 }
