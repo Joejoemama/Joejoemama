@@ -1,5 +1,5 @@
 {
-  "name": "Cmon man",
+  "name": "Serene_Horizon",
   "description": "An epic scenery",
   "version": "1.0",
   "authors": [
@@ -18,15 +18,15 @@
       "#ffffff"
     ],
     "TEXT_NORMAL": [
-      "#ffffff",
+      "#fbfbfb",
       "#ffffff"
     ],
     "TEXT_MUTED": [
-      "#ffffff",
+      "#fbfbfb",
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffffff",
+      "#fafafa",
       "#ffffff"
     ],
     "INTERACTIVE_HOVER": [
@@ -47,27 +47,27 @@
     ],
     "BACKGROUND_SECONDARY": [
       "#698ba3",
-      "#FFFFFF
+      "#f2f3f5"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#120212",
-      "#FFFFFF"
+      "#ebedef"
     ],
     "BACKGROUND_TERTIARY": [
       "#120212",
-      "#FFFFFF"
+      "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
       "#120212",
-      "#FFFFFF"
+      "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
-      "#747474",
+      "#120212",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#fafafa",
-      "#FFFFFF"
+      "#120212",
+      "#f8f9f9"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#120212",
@@ -152,6 +152,6 @@
   "background": {
     "blur": 0.1,
     "url": "https://raw.githubusercontent.com/Joejoemama/Joejoemama/main/Stupid.jpeg",
-    "alpha": 0.1
+    "alpha": 0.4
   }
 }
