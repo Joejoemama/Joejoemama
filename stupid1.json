@@ -1,0 +1,173 @@
+{
+    "name": "Stupid",
+    "description": "idk man",
+    "authors": [
+        {
+            "name": "Stupid",
+            "id": "69420"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+        
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#fafafa",
+            "#fafafa"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#723726",
+            "#723726"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#723726",
+            "#723726"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#723726",
+            "#723726"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#fafafa",
+            "#fafafa"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#698ba3",
+            "#698ba3"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#698ba3",
+            "#698ba3"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#ff6c03",
+            "#ff6c03"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#cfb5a1",
+            "#cfb5a1"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#747474",
+            "#747474"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#fafafa",
+            "#fafafa"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#698ba3",
+            "#698ba3"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#698ba3",
+            "#698ba3"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#e38e88",
+            "#e38e88"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#723736",
+            "#723736"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#723726",
+            "#723726"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#723726",
+            "#723726"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ff6co3",
+            "#ff6co3"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#26273b",
+            "#26273b"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "1a1926",
+            "1a1926"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#A9966A",
+            "#d8c28f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#111111"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#414141",
+            "#7c6ea7"
+        ],
+        "TEXT_LINK": [
+            "#a297c3",
+            "#a297c3"
+        ],
+        "KEYBOARD": [
+            "#161519",
+            "#161519"
+        ],
+        "CHANNEL_ICON": [
+            "#A7A7A7",
+            "#BFBFBF"
+        ]
+    },
+    "rawColors": {
+    "PRIMARY_DARK": "#4d4463",
+    "PRIMARY_100": "#4e8478",
+    "PRIMARY_200": "#d8c28f",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#4d4463",
+    "PRIMARY_400": "#A9966A",
+    "PRIMARY_500": "#882521",
+    "PRIMARY_600": "#121114",
+    "PRIMARY_630": "#262829",
+    "PRIMARY_660": "#111013",
+    "PRIMARY_700": "#161519",
+    "PRIMARY_800": "#161519",
+    "BRAND_260": "#4e8478",
+    "BRAND_360": "#4d4463",
+    "BRAND_500": "#4e8478",
+    "BRAND_560": "#d8c28f",
+    "BRAND_900": "#4d4463",
+    "BRAND_NEW": "#a297c3",
+    "YELLOW_300": "#d8c28f",
+    "GREEN_360": "#882521",
+    "DANGER": "#625682",
+    "RED_400": "#838784"
+    },
+  
+      "background": {
+    "blur": 0.6,
+    "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1099189661995380897/82ef73f876a5ef467a8263b694e4f0b8.jpg",
+    "alpha": 0.4
+    },
+    "color": "#4d4463"
+}
